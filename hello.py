@@ -6,5 +6,5 @@ if annee % 4 !=0:
 elif  annee % 400 == 0 and annee % 100 ==0 :
     print('bissextile!')
 else : print('not bi')
-
+# cest fini
 print('end')
